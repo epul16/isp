@@ -1,0 +1,571 @@
+code,mun,municipio,poblacion,p2005
+ini8,1,Abejones,1084,964
+vuf1,2,Acatlán de Pérez Figueroa,44885,37704
+bbz4,3,Asunción Cacalotepec,2495,2231
+jx16,4,Asunción Cuyotepeji,1012,841
+we60,5,Asunción Ixtaltepec,14751,13136
+aux7,6,Asunción Nochixtlán,17820,15126
+ks99,7,Asunción Ocotlán,2612,2241
+xff8,8,Asunción Tlacolulita,842,764
+bhd1,9,Ayotzintepec,6720,5801
+oz72,10,El Barrio de la Soledad,13608,11847
+ytd0,11,Calihualá,1220,1062
+th57,12,Candelaria Loxicha,9860,8420
+bhi3,13,Ciénega de Zimatlán,2785,2402
+tce2,14,Ciudad Ixtepec,26450,22076
+axk0,15,Coatecas Altas,4712,3912
+dr18,16,Coicoyán de las Flores,8531,6976
+gj59,17,La Compañía,3302,2865
+xut5,18,Concepción Buenavista,834,661
+msk4,19,Concepción Pápalo,3071,2754
+sqo0,20,Constancia del Rosario,3860,3300
+mk25,21,Cosolapa,14667,12401
+ggn4,22,Cosoltepec,866,734
+gla1,23,Cuilápam de Guerrero,18428,16297
+vf56,24,Cuyamecalco Villa de Zaragoza,3846,3243
+kg46,25,Chahuites,11105,9469
+alk4,26,Chalcatongo de Hidalgo,8481,7012
+hkq8,27,Chiquihuitlán de Benito Juárez,2458,2049
+jjc6,28,Heroica Ciudad de Ejutla de Crespo,19679,16768
+hdx2,29,Eloxochitlán de Flores Magón,4263,3618
+yqp1,30,El Espinal,8310,7261
+dc51,31,Tamazulápam del Espíritu Santo,7362,6293
+hvy7,32,Fresnillo de Trujano,1033,851
+irt9,33,Guadalupe Etla,2433,2154
+kxv7,34,Guadalupe de Ramírez,1425,1213
+ch99,35,Guelatao de Juárez,544,465
+drx4,36,Guevea de Humboldt,5285,4648
+xw69,37,Mesones Hidalgo,4402,3725
+uxj2,38,Villa Hidalgo,2112,1931
+tqy2,39,Heroica Ciudad de Huajuapan de León,69839,57839
+erl6,40,Huautepec,5995,5145
+fe33,41,Huautla de Jiménez,30004,25948
+hm41,42,Ixtlán de Juárez,7674,6646
+ezo5,43,Heroica Ciudad de Juchitán de Zaragoza,93038,82073
+irs9,44,Loma Bonita,41535,34415
+xq61,45,Magdalena Apasco,7522,6354
+ng23,46,Magdalena Jaltepec,3313,2874
+yk43,47,Santa Magdalena Jicotlán,93,80
+mfc9,48,Magdalena Mixtepec,1304,1074
+mhj5,49,Magdalena Ocotlán,1141,964
+odp7,50,Magdalena Peñasco,3778,3109
+zfq1,51,Magdalena Teitipac,4368,3662
+jxc1,52,Magdalena Tequisistlán,6182,5397
+kiu6,53,Magdalena Tlacotepec,1221,1097
+gox7,54,Magdalena Zahuatlán,409,354
+ch40,55,Mariscala de Juárez,3530,3019
+xmr0,56,Mártires de Tacubaya,1451,1284
+mi19,57,Matías Romero Avendaño,38019,32792
+ps03,58,Mazatlán Villa de Flores,13435,11641
+yru6,59,Miahuatlán de Porfirio Díaz,41387,34766
+nxw7,60,Mixistlán de la Reforma,2770,2429
+eks5,61,Monjas,2568,2158
+pzv5,62,Natividad,586,524
+ee60,63,Nazareno Etla,3882,3456
+lij3,64,Nejapa de Madero,7390,6423
+zom8,65,Ixpantepec Nieves,1182,1029
+ao04,66,Santiago Niltepec,5353,4599
+gy84,67,Oaxaca de Juárez,263357,227187
+qzg5,68,Ocotlán de Morelos,21341,18497
+nb79,69,La Pe,2446,2109
+ld64,70,Pinotepa de Don Luis,6629,5854
+oi18,71,Pluma Hidalgo,3060,2672
+bzi6,72,San José del Progreso,6579,5749
+ig50,73,Putla Villa de Guerrero,31897,27337
+pcr0,74,Santa Catarina Quioquitani,505,441
+viz0,75,Reforma de Pineda,2671,2311
+ckb3,76,La Reforma,3331,2887
+mi95,77,Reyes Etla,3568,3171
+yja1,78,Rojas de Cuauhtémoc,1092,984
+mvi8,79,Salina Cruz,82371,71564
+vk49,80,San Agustín Amatengo,1312,1210
+sdm8,81,San Agustín Atenango,1914,1544
+ncg7,82,San Agustín Chayuco,3952,3532
+gq12,83,San Agustín de las Juntas,8089,6795
+ooc5,84,San Agustín Etla,3893,3408
+kt52,85,San Agustín Loxicha,22565,19341
+scl1,86,San Agustín Tlacotepec,874,729
+vyj2,87,San Agustín Yatareni,4075,3522
+ncy8,88,San Andrés Cabecera Nueva,2851,2438
+ny93,89,San Andrés Dinicuiti,2152,1899
+nv34,90,San Andrés Huaxpaltepec,5867,5129
+uf74,91,San Andrés Huayápam,4879,4189
+eo11,92,San Andrés Ixtlahuaca,1439,1234
+oc18,93,San Andrés Lagunas,505,415
+cjh9,94,San Andrés Nuxiño,1898,1685
+yri2,95,San Andrés Paxtlán,3990,3531
+zcz5,96,San Andrés Sinaxtla,772,640
+bsm0,97,San Andrés Solaga,1740,1551
+tr12,98,San Andrés Teotilálpam,4427,3750
+ynt0,99,San Andrés Tepetlapa,475,409
+mjx5,100,San Andrés Yaá,497,452
+sm62,101,San Andrés Zabache,726,635
+xl54,102,San Andrés Zautla,4405,3835
+tjd9,103,San Antonino Castillo Velasco,5651,5040
+loo9,104,San Antonino el Alto,2508,2222
+dh60,105,San Antonino Monte Verde,6650,5666
+vn30,106,San Antonio Acutla,297,261
+vk05,107,San Antonio de la Cal,21456,18578
+hpb9,108,San Antonio Huitepec,4289,3669
+sdl9,109,San Antonio Nanahuatípam,1233,1078
+vp36,110,San Antonio Sinicahua,1603,1346
+ctr2,111,San Antonio Tepetlapa,4394,3856
+sqq6,112,San Baltazar Chichicápam,2439,2244
+njx7,113,San Baltazar Loxicha,2832,2501
+zk75,114,San Baltazar Yatzachi el Bajo,677,608
+jo99,115,San Bartolo Coyotepec,8684,7534
+ext5,116,San Bartolomé Ayautla,4052,3590
+oi69,117,San Bartolomé Loxicha,2422,2136
+ic12,118,San Bartolomé Quialana,2470,2102
+fe24,119,San Bartolomé Yucuañe,399,331
+gy98,120,San Bartolomé Zoogocho,368,345
+dqj9,121,San Bartolo Soyaltepec,655,593
+qib7,122,San Bartolo Yautepec,677,604
+jh22,123,San Bernardo Mixtepec,2705,2255
+inz9,124,San Blas Atempa,17094,14989
+vjl5,125,San Carlos Yautepec,11813,10151
+wy78,126,San Cristóbal Amatlán,5024,4281
+ewf2,127,San Cristóbal Amoltepec,1283,1084
+ekq0,128,San Cristóbal Lachirioag,1230,1037
+am04,129,San Cristóbal Suchixtlahuaca,334,280
+rlq7,130,San Dionisio del Mar,5098,4483
+ul87,131,San Dionisio Ocotepec,10500,9225
+ae03,132,San Dionisio Ocotlán,1245,1088
+mu88,133,San Esteban Atatlahuca,3974,3374
+ib22,134,San Felipe Jalapa de Díaz,26838,23059
+mdj6,135,San Felipe Tejalápam,7187,6164
+kcb4,136,San Felipe Usila,11575,10258
+pj51,137,San Francisco Cahuacuá,3427,2976
+dvx6,138,San Francisco Cajonos,460,392
+nr46,139,San Francisco Chapulapa,2136,1749
+kil4,140,San Francisco Chindúa,827,693
+bn34,141,San Francisco del Mar,7232,6182
+of58,142,San Francisco Huehuetlán,1160,1049
+xrv3,143,San Francisco Ixhuatán,8959,7995
+uq46,144,San Francisco Jaltepetongo,1110,948
+wgh7,145,San Francisco Lachigoló,3474,2869
+bo34,146,San Francisco Logueche,2666,2326
+coi1,147,San Francisco Nuxaño,378,319
+tx27,148,San Francisco Ozolotepec,1945,1677
+af42,149,San Francisco Sola,1509,1286
+xev8,150,San Francisco Telixtlahuaca,11893,10364
+cs99,151,San Francisco Teopan,394,359
+ltv2,152,San Francisco Tlapancingo,2152,1838
+mqt7,153,San Gabriel Mixtepec,4733,4062
+xgc8,154,San Ildefonso Amatlán,2393,1900
+og89,155,San Ildefonso Sola,940,816
+rn35,156,San Ildefonso Villa Alta,3478,3056
+hb39,157,San Jacinto Amilpas,13860,11572
+tys4,158,San Jacinto Tlacotepec,2231,2002
+pf22,159,San Jerónimo Coatlán,5449,4693
+svd7,160,San Jerónimo Silacayoapilla,1449,1174
+qmk3,161,San Jerónimo Sosola,2559,2223
+ok07,162,San Jerónimo Taviche,1848,1557
+cfa8,163,San Jerónimo Tecóatl,1606,1301
+umq5,164,San Jorge Nuchita,3215,2766
+ic06,165,San José Ayuquila,1511,1217
+pk92,166,San José Chiltepec,11019,9542
+yu43,167,San José del Peñasco,2094,1726
+sx77,168,San José Estancia Grande,977,800
+br41,169,San José Independencia,3684,3249
+bnd5,170,San José Lachiguiri,3849,3369
+nx42,171,San José Tenango,18478,16033
+no23,172,San Juan Achiutla,430,386
+nv35,173,San Juan Atepec,1517,1326
+mo33,174,Ánimas Trujano,3759,3330
+fj83,175,San Juan Bautista Atatlahuca,1724,1543
+nl71,176,San Juan Bautista Coixtlahuaca,2808,2432
+enj1,177,San Juan Bautista Cuicatlán,9441,8293
+en72,178,San Juan Bautista Guelache,6287,5389
+srs1,179,San Juan Bautista Jayacatlán,1462,1278
+dwc3,180,San Juan Bautista Lo de Soto,2325,1928
+ir65,181,San Juan Bautista Suchitepec,417,372
+wxb3,182,San Juan Bautista Tlacoatzintepec,2292,1952
+ys46,183,San Juan Bautista Tlachichilco,1447,1208
+kf52,184,San Juan Bautista Tuxtepec,155766,132278
+rjv0,185,San Juan Cacahuatepec,8680,7471
+qj64,186,San Juan Cieneguilla,605,482
+og17,187,San Juan Coatzóspam,2535,2197
+iis4,188,San Juan Colorado,9494,8187
+wwj5,189,San Juan Comaltepec,2517,2175
+yx28,190,San Juan Cotzocón,22356,19226
+lkc6,191,San Juan Chicomezúchil,320,267
+kdi1,192,San Juan Chilateca,1442,1282
+gcq3,193,San Juan del Estado,2546,2149
+kr43,194,San Juan del Río,1231,1086
+vfb8,195,San Juan Diuxi,1256,1101
+kk58,196,San Juan Evangelista Analco,404,359
+vao2,197,San Juan Guelavía,3047,2576
+eik4,198,San Juan Guichicovi,28142,25014
+yhh4,199,San Juan Ihualtepec,713,602
+vxe8,200,San Juan Juquila Mixes,3924,3506
+rpu5,201,San Juan Juquila Vijanos,1832,1651
+nd67,202,San Juan Lachao,4531,3837
+rqr6,203,San Juan Lachigalla,3285,2761
+wec5,204,San Juan Lajarcia,715,617
+cfm9,205,San Juan Lalana,17398,15108
+fh23,206,San Juan de los Cués,2357,2015
+rsj5,207,San Juan Mazatlán,17100,14436
+dc16,208,San Juan Mixtepec -Dto. 08 -,7611,6092
+vum3,209,San Juan Mixtepec -Dto. 26 -,711,660
+jfk6,210,San Juan Ñumí,6666,5614
+ins6,211,San Juan Ozolotepec,3168,2739
+mp45,212,San Juan Petlapa,2807,2414
+oez4,213,San Juan Quiahije,3628,3031
+tw25,214,San Juan Quiotepec,2313,1968
+yx00,215,San Juan Sayultepec,764,632
+hxy9,216,San Juan Tabaá,1331,1194
+mr32,217,San Juan Tamazola,3446,2978
+nbr7,218,San Juan Teita,607,512
+xn16,219,San Juan Teitipac,2565,2301
+lk24,220,San Juan Tepeuxila,2773,2426
+ibk8,221,San Juan Teposcolula,1340,1146
+ms46,222,San Juan Yaeé,1530,1360
+xoz1,223,San Juan Yatzona,452,399
+kx46,224,San Juan Yucuita,684,616
+ad08,225,San Lorenzo,5955,5262
+eyy1,226,San Lorenzo Albarradas,2708,2341
+bm91,227,San Lorenzo Cacaotepec,13704,11882
+pc80,228,San Lorenzo Cuaunecuiltitla,771,647
+zm74,229,San Lorenzo Texmelúcan,7048,5997
+xrk9,230,San Lorenzo Victoria,1007,843
+vrg6,231,San Lucas Camotlán,3026,2697
+fs45,232,San Lucas Ojitlán,21514,18749
+mbw4,233,San Lucas Quiaviní,1745,1592
+vy83,234,San Lucas Zoquiápam,7554,6586
+qpf5,235,San Luis Amatlán,3624,3041
+aos0,236,San Marcial Ozolotepec,1525,1336
+uaw2,237,San Marcos Arteaga,1557,1257
+cdo4,238,San Martín de los Cansecos,816,733
+ez03,239,San Martín Huamelúlpam,1077,884
+ge09,240,San Martín Itunyoso,2460,2061
+qo24,241,San Martín Lachilá,1084,900
+my31,242,San Martín Peras,11361,9289
+vr00,243,San Martín Tilcajete,1742,1504
+mi14,244,San Martín Toxpalan,3669,3170
+bqa2,245,San Martín Zacatepec,1277,1090
+fw46,246,San Mateo Cajonos,620,533
+gc69,247,Capulálpam de Méndez,1467,1300
+umx8,248,San Mateo del Mar,14252,12387
+aij0,249,San Mateo Yoloxochitlán,3475,2869
+as47,250,San Mateo Etlatongo,1181,1036
+mc47,251,San Mateo Nejápam,1180,1022
+qp06,252,San Mateo Peñasco,2116,1782
+tsi9,253,San Mateo Piñas,2226,2006
+pv29,254,San Mateo Río Hondo,3308,2909
+qc82,255,San Mateo Sindihui,2086,1761
+jf16,256,San Mateo Tlapiltepec,234,194
+rv64,257,San Melchor Betaza,1091,981
+rzf4,258,San Miguel Achiutla,744,669
+hl92,259,San Miguel Ahuehuetitlán,2465,2023
+mt49,260,San Miguel Aloápam,2488,2242
+rf70,261,San Miguel Amatitlán,7244,6131
+la90,262,San Miguel Amatlán,1043,893
+af60,263,San Miguel Coatlán,3483,2910
+szv8,264,San Miguel Chicahua,2274,1894
+cz03,265,San Miguel Chimalapa,6608,5366
+evr5,266,San Miguel del Puerto,8481,7509
+ji91,267,San Miguel del Río,294,265
+xvp6,268,San Miguel Ejutla,916,790
+ub39,269,San Miguel el Grande,4127,3492
+duz7,270,San Miguel Huautla,1399,1247
+xyb9,271,San Miguel Mixtepec,3245,2718
+xv77,272,San Miguel Panixtlahuaca,6161,5273
+kca8,273,San Miguel Peras,3497,2933
+dr10,274,San Miguel Piedras,1296,1149
+el64,275,San Miguel Quetzaltepec,7293,6577
+vj96,276,San Miguel Santa Flor,801,668
+ap27,277,Villa Sola de Vega,12525,10915
+ym63,278,San Miguel Soyaltepec,36564,31499
+xbw3,279,San Miguel Suchixtepec,2911,2601
+evz8,280,Villa Talea de Castro,2394,2085
+twp1,281,San Miguel Tecomatlán,308,243
+af72,282,San Miguel Tenango,794,717
+oqv7,283,San Miguel Tequixtepec,1042,895
+pvx0,284,San Miguel Tilquiápam,3160,2653
+xk82,285,San Miguel Tlacamama,3386,2971
+nht8,286,San Miguel Tlacotepec,3220,2730
+hq64,287,San Miguel Tulancingo,346,314
+tbs6,288,San Miguel Yotao,611,542
+fv34,289,San Nicolás,1143,1000
+yfn5,290,San Nicolás Hidalgo,1012,833
+df74,291,San Pablo Coatlán,4167,3556
+jr82,292,San Pablo Cuatro Venados,1388,1184
+zt04,293,San Pablo Etla,15535,13208
+fh19,294,San Pablo Huitzo,6307,5486
+gyt7,295,San Pablo Huixtepec,9025,7792
+tsr6,296,San Pablo Macuiltianguis,929,845
+oiu7,297,San Pablo Tijaltepec,2150,1734
+sy84,298,San Pablo Villa de Mitla,11825,10056
+owv3,299,San Pablo Yaganiza,1108,959
+ct98,300,San Pedro Amuzgos,6468,5651
+jnc7,301,San Pedro Apóstol,1544,1343
+ht58,302,San Pedro Atoyac,4136,3639
+os26,303,San Pedro Cajonos,1172,1030
+tdp1,304,San Pedro Coxcaltepec Cántaros,851,764
+frm3,305,San Pedro Comitancillo,3944,3497
+taz4,306,San Pedro el Alto,3903,3294
+qi06,307,San Pedro Huamelula,9594,8535
+blg3,308,San Pedro Huilotepec,2839,2515
+gu30,309,San Pedro Ixcatlán,10371,8938
+bdw7,310,San Pedro Ixtlahuaca,6822,5804
+wmt8,311,San Pedro Jaltepetongo,458,406
+jt26,312,San Pedro Jicayán,11555,10027
+kp81,313,San Pedro Jocotipac,834,769
+ioz8,314,San Pedro Juchatengo,1693,1475
+ow88,315,San Pedro Mártir,1711,1471
+ika4,316,San Pedro Mártir Quiechapa,753,655
+zsr7,317,San Pedro Mártir Yucuxaco,1405,1229
+jmj9,318,San Pedro Mixtepec -Dto. 22 -,42860,36028
+vwy7,319,San Pedro Mixtepec -Dto. 26 -,1099,963
+iz28,320,San Pedro Molinos,723,606
+bi87,321,San Pedro Nopala,840,723
+ee21,322,San Pedro Ocopetatillo,884,740
+rb25,323,San Pedro Ocotepec,2135,1862
+qoz5,324,San Pedro Pochutla,43860,37900
+fe16,325,San Pedro Quiatoni,10491,9212
+es23,326,San Pedro Sochiápam,4957,4182
+nw43,327,San Pedro Tapanatepec,13992,11692
+xe92,328,San Pedro Taviche,1173,1027
+cm65,329,San Pedro Teozacoalco,1320,1143
+xdt8,330,San Pedro Teutila,4277,3589
+lte9,331,San Pedro Tidaá,894,713
+hp81,332,San Pedro Topiltepec,406,341
+fcu1,333,San Pedro Totolápam,2603,2313
+rl86,334,Villa de Tututepec de Melchor Ocampo,43913,37668
+sd31,335,San Pedro Yaneri,1002,865
+wqo6,336,San Pedro Yólox,2267,1952
+zts2,337,San Pedro y San Pablo Ayutla,5602,4832
+uri9,338,Villa de Etla,9280,8125
+tsc3,339,San Pedro y San Pablo Teposcolula,3989,3402
+do17,340,San Pedro y San Pablo Tequixtepec,1878,1641
+cp98,341,San Pedro Yucunama,232,201
+qc28,342,San Raymundo Jalpan,2079,1808
+mdn4,343,San Sebastián Abasolo,1849,1590
+rgn1,344,San Sebastián Coatlán,2613,2277
+gtn9,345,San Sebastián Ixcapa,3968,3426
+pgz6,346,San Sebastián Nicananduta,1449,1233
+lpw6,347,San Sebastián Río Hondo,3664,3227
+nqj7,348,San Sebastián Tecomaxtlahuaca,8246,6868
+vmv9,349,San Sebastián Teitipac,1976,1713
+pup9,350,San Sebastián Tutla,16241,14131
+tl54,351,San Simón Almolongas,2623,2254
+els7,352,San Simón Zahuatlán,3833,3148
+ib69,353,Santa Ana,1978,1616
+ff58,354,Santa Ana Ateixtlahuaca,510,447
+uc98,355,Santa Ana Cuauhtémoc,738,663
+wqo7,356,Santa Ana del Valle,1993,1726
+tci6,357,Santa Ana Tavela,908,834
+rkx8,358,Santa Ana Tlapacoyan,1854,1594
+lqk2,359,Santa Ana Yareni,809,759
+ppf8,360,Santa Ana Zegache,3592,3101
+no28,361,Santa Catalina Quierí,922,834
+cm48,362,Santa Catarina Cuixtla,1496,1191
+vvk1,363,Santa Catarina Ixtepeji,2633,2372
+tl39,364,Santa Catarina Juquila,14710,12709
+ja12,365,Santa Catarina Lachatao,1307,1153
+jid7,366,Santa Catarina Loxicha,3986,3414
+gs67,367,Santa Catarina Mechoacán,4543,4062
+xv70,368,Santa Catarina Minas,1816,1552
+krd1,369,Santa Catarina Quiané,1847,1600
+wc21,370,Santa Catarina Tayata,679,580
+wt27,371,Santa Catarina Ticuá,954,804
+wj44,372,Santa Catarina Yosonotú,1886,1674
+im40,373,Santa Catarina Zapoquila,448,386
+ajh7,374,Santa Cruz Acatepec,1470,1214
+wea1,375,Santa Cruz Amilpas,10120,8743
+ojk0,376,Santa Cruz de Bravo,364,294
+tag2,377,Santa Cruz Itundujia,10975,9364
+lo02,378,Santa Cruz Mixtepec,3615,3019
+dp05,379,Santa Cruz Nundaco,2958,2547
+qms5,380,Santa Cruz Papalutla,1972,1698
+nx30,381,Santa Cruz Tacache de Mina,2606,2160
+fph2,382,Santa Cruz Tacahua,1170,1030
+ane2,383,Santa Cruz Tayata,608,517
+yak2,384,Santa Cruz Xitla,4514,3850
+jpy7,385,Santa Cruz Xoxocotlán,77833,67034
+mlw6,386,Santa Cruz Zenzontepec,17897,15408
+rk28,387,Santa Gertrudis,2858,2426
+qw21,388,Santa Inés del Monte,2535,2088
+jl13,389,Santa Inés Yatzeche,921,832
+ee66,390,Santa Lucía del Camino,47356,40805
+mr27,391,Santa Lucía Miahuatlán,3356,2836
+bz26,392,Santa Lucía Monteverde,6678,5869
+mv78,393,Santa Lucía Ocotlán,3604,3137
+jfc1,394,Santa María Alotepec,2778,2499
+lap9,395,Santa María Apazco,1898,1662
+fkl4,396,Santa María la Asunción,3252,2868
+cjj0,397,Heroica Ciudad de Tlaxiaco,38453,32537
+aky6,398,Ayoquezco de Aldama,4406,3749
+kqn7,399,Santa María Atzompa,27465,23494
+zr38,400,Santa María Camotlán,1632,1373
+ne89,401,Santa María Colotepec,22562,19089
+lcm3,402,Santa María Cortijo,1083,875
+wyp8,403,Santa María Coyotepec,2772,2340
+fyq7,404,Santa María Chachoápam,766,675
+mn44,405,Villa de Chilapa de Díaz,1932,1608
+yoo0,406,Santa María Chilchotla,20584,18085
+xl07,407,Santa María Chimalapa,8506,6230
+rlh2,408,Santa María del Rosario,480,395
+tba7,409,Santa María del Tule,8165,7142
+fme2,410,Santa María Ecatepec,3461,3011
+llw5,411,Santa María Guelacé,816,711
+bc95,412,Santa María Guienagati,3286,2808
+szp1,413,Santa María Huatulco,38629,31825
+qm86,414,Santa María Huazolotitlán,10794,9237
+tg61,415,Santa María Ipalapa,4888,4233
+deo7,416,Santa María Ixcatlán,516,480
+md86,417,Santa María Jacatepec,9240,8036
+gf22,418,Santa María Jalapa del Marqués,11888,10137
+pz91,419,Santa María Jaltianguis,575,494
+al97,420,Santa María Lachixío,1680,1464
+hsu7,421,Santa María Mixtequilla,4442,3872
+cph4,422,Santa María Nativitas,681,582
+kz97,423,Santa María Nduayaco,550,486
+hpt9,424,Santa María Ozolotepec,3992,3535
+rtu1,425,Santa María Pápalo,2209,1968
+wtw5,426,Santa María Peñoles,7865,6736
+ttb7,427,Santa María Petapa,15387,13384
+zl07,428,Santa María Quiegolani,1770,1532
+erm8,429,Santa María Sola,1524,1337
+ic60,430,Santa María Tataltepec,253,220
+bgc5,431,Santa María Tecomavaca,1774,1545
+dl59,432,Santa María Temaxcalapa,968,863
+qgv2,433,Santa María Temaxcaltepec,2595,2135
+qgx0,434,Santa María Teopoxco,4651,3827
+sk37,435,Santa María Tepantlali,3505,3038
+ti99,436,Santa María Texcatitlán,1113,1001
+jpl0,437,Santa María Tlahuitoltepec,9663,8367
+ut52,438,Santa María Tlalixtac,1754,1508
+tk72,439,Santa María Tonameca,24318,20892
+kka6,440,Santa María Totolapilla,896,813
+pki0,441,Santa María Xadani,7781,6565
+ww44,442,Santa María Yalina,354,317
+vwq7,443,Santa María Yavesía,448,375
+jjg8,444,Santa María Yolotepec,461,371
+we42,445,Santa María Yosoyúa,1642,1424
+sqd0,446,Santa María Yucuhiti,6551,5646
+zb85,447,Santa María Zacatepec,15076,12907
+lzd4,448,Santa María Zaniza,2009,1669
+nl16,449,Santa María Zoquitlán,3359,2959
+jre5,450,Santiago Amoltepec,12313,10088
+dp79,451,Santiago Apoala,1053,943
+hr45,452,Santiago Apóstol,4220,3763
+hmd5,453,Santiago Astata,3915,3416
+pak2,454,Santiago Atitlán,3180,2866
+ygr7,455,Santiago Ayuquililla,2748,2339
+mdy9,456,Santiago Cacaloxtepec,1686,1402
+xx78,457,Santiago Camotlán,3395,3027
+jzk3,458,Santiago Comaltepec,1115,1003
+wls0,459,Santiago Chazumba,4479,3697
+ry89,460,Santiago Choápam,5413,4653
+izy6,461,Santiago del Río,614,524
+njt0,462,Santiago Huajolotitlán,4350,3650
+nu13,463,Santiago Huauclilla,663,606
+kx99,464,Santiago Ihuitlán Plumas,480,385
+djg3,465,Santiago Ixcuintepec,1568,1372
+jp74,466,Santiago Ixtayutla,11917,10444
+wlw0,467,Santiago Jamiltepec,18383,15871
+jcx8,468,Santiago Jocotepec,13568,11492
+aa79,469,Santiago Juxtlahuaca,32927,26888
+vl45,470,Santiago Lachiguiri,4693,4285
+hkq0,471,Santiago Lalopa,496,437
+dyz3,472,Santiago Laollaga,3198,2794
+ne36,473,Santiago Laxopa,1394,1223
+vg38,474,Santiago Llano Grande,3260,2710
+cdw3,475,Santiago Matatlán,9653,8206
+ly57,476,Santiago Miltepec,409,353
+nsg6,477,Santiago Minas,1430,1304
+hki0,478,Santiago Nacaltepec,1913,1714
+af73,479,Santiago Nejapilla,219,199
+oy69,480,Santiago Nundiche,967,839
+hrs3,481,Santiago Nuyoó,1966,1772
+ahy1,482,Santiago Pinotepa Nacional,50309,42752
+ikc0,483,Santiago Suchilquitongo,9542,8411
+nq35,484,Santiago Tamazola,4207,3576
+yb45,485,Santiago Tapextla,3031,2578
+jz38,486,Villa Tejúpam de la Unión,2469,2112
+fot7,487,Santiago Tenango,1945,1702
+fld2,488,Santiago Tepetlapa,131,105
+vfe8,489,Santiago Tetepec,4953,4327
+cw34,490,Santiago Texcalcingo,3076,2600
+nm39,491,Santiago Textitlán,4170,3521
+dte0,492,Santiago Tilantongo,3210,2763
+po82,493,Santiago Tillo,553,485
+moh7,494,Santiago Tlazoyaltepec,4894,4185
+bo99,495,Santiago Xanica,2884,2448
+leq9,496,Santiago Xiacuí,2171,1859
+piv4,497,Santiago Yaitepec,4122,3565
+ksn9,498,Santiago Yaveo,6665,5530
+drc0,499,Santiago Yolomécatl,2021,1701
+hi32,500,Santiago Yosondúa,7883,6637
+nn25,501,Santiago Yucuyachi,940,781
+pfu9,502,Santiago Zacatepec,5515,4960
+usk1,503,Santiago Zoochila,374,331
+al29,504,Nuevo Zoquiápam,1652,1397
+zl69,505,Santo Domingo Ingenio,7554,6641
+so04,506,Santo Domingo Albarradas,782,707
+fx58,507,Santo Domingo Armenta,3224,2750
+zp68,508,Santo Domingo Chihuitán,1521,1360
+zja4,509,Santo Domingo de Morelos,10547,8979
+kbn4,510,Santo Domingo Ixcatlán,877,750
+ogz2,511,Santo Domingo Nuxaá,3610,3108
+az50,512,Santo Domingo Ozolotepec,913,810
+qy49,513,Santo Domingo Petapa,8394,7098
+ys86,514,Santo Domingo Roayaga,997,860
+xkg4,515,Santo Domingo Tehuantepec,61872,53427
+de56,516,Santo Domingo Teojomulco,4571,3895
+tfd7,517,Santo Domingo Tepuxtepec,5194,4447
+wlz1,518,Santo Domingo Tlatayápam,153,132
+kg47,519,Santo Domingo Tomaltepec,2790,2425
+bi07,520,Santo Domingo Tonalá,7153,5816
+vi13,521,Santo Domingo Tonaltepec,276,246
+zea5,522,Santo Domingo Xagacía,1213,1028
+njx0,523,Santo Domingo Yanhuitlán,1609,1378
+ir97,524,Santo Domingo Yodohino,369,334
+iu27,525,Santo Domingo Zanatepec,11218,9680
+fd43,526,Santos Reyes Nopala,15986,13925
+hv37,527,Santos Reyes Pápalo,2829,2389
+bs84,528,Santos Reyes Tepejillo,1213,999
+wic2,529,Santos Reyes Yucuná,1332,1129
+kb35,530,Santo Tomás Jalieza,3385,2899
+jhw8,531,Santo Tomás Mazaltepec,2333,2045
+qhr4,532,Santo Tomás Ocotepec,4076,3530
+sl00,533,Santo Tomás Tamazulapan,2191,1892
+lbq2,534,San Vicente Coatlán,3964,3390
+ceg4,535,San Vicente Lachixío,2976,2536
+gp75,536,San Vicente Nuñú,493,423
+uc69,537,Silacayoápam,6747,5711
+dbj6,538,Sitio de Xitlapehua,705,597
+vw71,539,Soledad Etla,5025,4419
+sb02,540,Villa de Tamazulápam del Progreso,7059,6116
+kwe3,541,Tanetze de Zaragoza,1707,1491
+wlu0,542,Taniche,746,664
+srz6,543,Tataltepec de Valdés,5561,4965
+mg59,544,Teococuilco de Marcos Pérez,1106,970
+ig23,545,Teotitlán de Flores Magón,8966,7601
+yrj3,546,Teotitlán del Valle,5638,5038
+lgl8,547,Teotongo,951,794
+xif7,548,Tepelmeme Villa de Morelos,1734,1424
+di91,549,Tezoatlán de Segura y Luna,11319,9753
+yj24,550,San Jerónimo Tlacochahuaya,5076,4404
+nq91,551,Tlacolula de Matamoros,19625,16767
+ax47,552,Tlacotepec Plumas,510,422
+yd17,553,Tlalixtac de Cabrera,9417,8306
+qu18,554,Totontepec Villa de Morelos,5598,4900
+hi77,555,Trinidad Zaachila,2653,2404
+gb20,556,La Trinidad Vista Hermosa,249,208
+ate2,557,Unión Hidalgo,13970,12517
+vp53,558,Valerio Trujano,1543,1359
+nxg0,559,San Juan Bautista Valle Nacional,22446,19653
+tu03,560,Villa Díaz Ordaz,6174,5414
+vlt4,561,Yaxe,2683,2303
+iq01,562,Magdalena Yodocono de Porfirio Díaz,1458,1203
+odz7,563,Yogana,1308,1112
+mm83,564,Yutanduchi de Guerrero,1292,1118
+sd93,565,Villa de Zaachila,34101,29296
+fqu0,566,San Mateo Yucutindó,3034,2697
+vwi4,567,Zapotitlán Lagunas,3133,2688
+rd42,568,Zapotitlán Palmas,1514,1269
+xpx0,569,Santa Inés de Zaragoza,1707,1477
+ade0,570,Zimatlán de Álvarez,19215,16585
